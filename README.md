@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Subhadip Kundu from Bengalore , India , a techie , I work full time with a reputed USA based startup and doing part time projects overseas with all type of clients.
-- 👀 I’m interested in developing web related application and automation testing 
+- 👀 I’m interested in developing web related application and automation testing. like dynamic web page , shopping kart in ecommerce application, Product Catalogue page , Animation Loading in a web page etc.
 - 🌱 I’m currently learning Mern Stack, Node Js , Django Framework, couchbase db , MongoDb which will enable my capacity to build end to end mobile / dextop application.
 - 💞️ I’m looking to collaborate on new projects and existing projects with complex requirements to write or debug codes .
 - 📫 Please reach me via Viber [+91 8892598499 ] , Linkdin [https://in.linkedin.com/in/subhadip-kundu-51611394] , Whatsapp[+91 8892598499] , Upwork [https://www.upwork.com/freelancers/~0129c786ef9a02574e?mp_source=share]
